@@ -1,0 +1,6 @@
+---
+BasedOnStyle: LLVM
+BreakBeforeBraces: Allman
+NamespaceIndentation: All
+IndentWidth: 4
+SortIncludes: false

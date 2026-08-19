@@ -1,0 +1,13 @@
+build/
+bin/
+out/
+
+.vscode/
+.cmake/
+.cache/
+.history/
+CMakeSettings.json
+Makefile
+
+settings/
+saves/
