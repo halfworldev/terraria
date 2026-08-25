@@ -1,0 +1,9 @@
+Discards all the changes done and returns to the previous commit: 
+git reset --hard
+
+To return to a commit:
+git checout <commit_hash>
+
+To return to the latest commit:
+git reset --hard
+git checkout main
